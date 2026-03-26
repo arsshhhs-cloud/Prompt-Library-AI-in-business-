@@ -1,7 +1,34 @@
 ## Prompt 1: Content calender for eye hospital
 
 **Prompt Text:**  
-You are a Social media marketing specialist working in a eye-speciality hospital, Generate a 4 weeks content calendar for instagram and facebook targeting the general public. Each week should have 3 posts, on topics General eye health awareness, a patient's success story, Special offers or discounts on services (LASIK, cataract surgery, contact lenses etc). For each post provide: caption text (max word 120), revenant hashtags, best posting time and content format (image/reel/carousel). Maintain a professional, warm and reassuring brand tone throughout.
+Role: You are a Senior Content Strategist at an Eye Specialty Hospital specializing in refractive and cataract surgery.
+
+Objective: Create a 4-week, 12-post content calendar (3 posts/week) for Instagram and Facebook.
+
+Content Pillars per Week:
+
+Education: General eye health awareness (e.g., screen time, dry eye).
+
+Social Proof: A warm, HIPAA-compliant patient success story.
+
+Conversion: Promotion for LASIK, Cataracts, or Contact Lenses.
+
+Tone: Professional, clinical yet empathetic, and reassuring.
+
+Constraints & Output Format:
+Provide a Markdown table with the following columns:
+
+Week/Day: (e.g., Week 1, Mon/Wed/Fri)
+
+Topic & Format: (Specify Reel, Carousel, or Static Image)
+
+Copy (Max 120 words): Include a clear Hook, Body, and Call to Action (CTA).
+
+Scheduling: Best time to post for AEST/Local healthcare audiences.
+
+Metadata: 5-7 niche hashtags and a brief "Visual Brief" for the design team.
+
+Requirement: Ensure all medical claims are framed as "Consult a specialist" to maintain clinical safety.
 
 **Intended Workflow/Task:**  
 Monthly social media planning and content creation across Instagram and Facebook.
@@ -18,108 +45,20 @@ High, This prompt can be re-run monthly with simple swap of featured services an
 
 **Output**
 
-Certainly! Here's a 4-week content calendar tailored for an eye-speciality hospital’s Instagram and Facebook, targeting the general public with a professional, warm, and reassuring tone.
+```markdown
+| Week/Day       | Topic & Format                      | Copy (Max 120 words)                                                                                                                                                                                                                  | Scheduling (AEST) | Metadata                                                                                         |
+|----------------|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|------------------------------------------------------------------------------------------------|
+| Week 1, Mon    | Education: Screen Time & Eye Health (Carousel) | **Hook:** Are your eyes feeling tired after hours of screen time? 👀<br>**Body:** Prolonged screen exposure can cause digital eye strain, leading to dryness, headaches, and blurred vision. Simple habits like the 20-20-20 rule can help protect your eyes. Remember, always consult a specialist if symptoms persist.<br>**CTA:** Swipe through to learn how to care for your eyes during screen time! | 8:00 PM          | #EyeHealth #DigitalEyeStrain #ScreenTimeTips #EyeCare #HealthyVision #ConsultASpecialist #DryEye<br>Visual Brief: Clean, modern carousel with infographic style tips, soft blue tones, and eye icons. |
+| Week 1, Wed    | Social Proof: Patient Success Story (Static Image)         | **Hook:** “I can see the world clearly again!” - Sarah, cataract surgery patient.<br>**Body:** After her cataract surgery, Sarah regained her independence and joy in everyday activities. Our team provides personalized care every step of the way. Your vision is our priority.<br>**CTA:** Ready for clearer vision? Book a consultation with our specialists today. | 7:00 PM          | #CataractSurgery #PatientStory #VisionRestoration #EyeCareExperts #SuccessStory #ConsultASpecialist #ClearVision<br>Visual Brief: Warm photo of smiling patient with soft hospital background, branded overlay. |
+| Week 1, Fri    | Conversion: LASIK Promotion (Reel)                         | **Hook:** Imagine life without glasses or contacts! 👓❌<br>**Body:** LASIK surgery can offer clear vision and freedom from corrective lenses. Our expert surgeons use state-of-the-art technology to customize your treatment. Consult a specialist to see if LASIK is right for you.<br>**CTA:** Book your free LASIK consultation today! | 8:30 PM          | #LASIK #LaserEyeSurgery #VisionCorrection #EyeSpecialist #ClearVision #ConsultASpecialist #NoMoreGlasses<br>Visual Brief: Dynamic reel showcasing before/after visuals with reassuring surgeon clips. |
+| Week 2, Mon    | Education: Dry Eye Awareness (Carousel)                    | **Hook:** Do your eyes often feel dry, itchy, or gritty?<br>**Body:** Dry eye syndrome affects millions and can worsen with age or screen use. Simple lifestyle changes and treatments may help—but always consult a specialist for a tailored plan.<br>**CTA:** Swipe to learn practical tips to soothe dry eyes. | 8:00 PM          | #DryEyeSyndrome #EyeComfort #EyeHealthTips #ConsultASpecialist #HealthyEyes #EyeCare #VisionHealth<br>Visual Brief: Soothing pastel colors, close-ups of eyes, step-by-step tips in clean infographic style. |
+| Week 2, Wed    | Social Proof: Contact Lens Success Story (Static Image)    | **Hook:** “Contact lenses changed my life!” - James.<br>**Body:** James struggled with glasses for years until he tried our customized contact lenses. Now, he enjoys comfort and clear vision every day. Our specialists ensure the perfect fit and care.<br>**CTA:** Explore contact lens options with us today! | 7:00 PM          | #ContactLenses #PatientStory #VisionCare #EyeHealth #ConsultASpecialist #ComfortableVision #ClearSight<br>Visual Brief: Lifestyle shot of a happy patient inserting lenses, bright natural lighting. |
+| Week 2, Fri    | Conversion: Cataract Surgery Promotion (Reel)              | **Hook:** See the world in HD again! 🌟<br>**Body:** Cataract surgery is a safe, effective way to restore your vision and improve quality of life. Our experienced surgeons use advanced techniques tailored to your needs. Consult a specialist to learn more.<br>**CTA:** Book your cataract consultation today. | 8:30 PM          | #CataractSurgery #VisionRestoration #EyeSpecialist #AdvancedEyeCare #ClearVision #ConsultASpecialist #EyeHealth<br>Visual Brief: Engaging reel with surgery animation and patient testimonials, calming blue palette. |
+| Week 3, Mon    | Education: Importance of Regular Eye Exams (Carousel)      | **Hook:** When was your last eye exam? 👁️<br>**Body:** Regular eye exams are essential for early detection of conditions like glaucoma, diabetes-related eye issues, and cataracts. Early diagnosis means better outcomes. Always consult a specialist for personalized advice.<br>**CTA:** Swipe to discover what an eye exam involves and why it matters. | 8:00 PM          | #EyeExam #EyeHealth #GlaucomaAwareness #VisionCare #ConsultASpecialist #HealthyVision #PreventativeCare<br>Visual Brief: Step-by-step infographic carousel showing exam process with friendly clinician images. |
+| Week 3, Wed    | Social Proof: LASIK Patient Review (Static Image)           | **Hook:** “LASIK gave me my confidence back!” - Emily.<br>**Body:** After LASIK surgery, Emily enjoys crisp vision without glasses or contacts. Our team provided expert care and personalized treatment plans. Your journey to clearer vision starts here.<br>**CTA:** Contact us to schedule your LASIK consultation. | 7:00 PM          | #LASIKSuccess #PatientReview #VisionCorrection #EyeCareExperts #ConsultASpecialist #ClearVision #LifeChanging<br>Visual Brief: Happy patient portrait with overlay text quote, clean clinical background. |
+| Week 3, Fri    | Conversion: Contact Lens Promotion (Reel)                  | **Hook:** Tired of glasses? Try contact lenses!<br>**Body:** Our state-of-the-art fitting process ensures comfort and clarity tailored to your lifestyle. From daily to specialty lenses, consult a specialist to find your perfect match.<br>**CTA:** Book your contact lens fitting appointment now! | 8:30 PM          | #ContactLensFitting #EyeCare #VisionCorrection #ConsultASpecialist #ComfortableVision #HealthyEyes #ClearSight<br>Visual Brief: Engaging reel with close-ups of lens application and smiling patients. |
+| Week 4, Mon    | Education: Blue Light & Eye Health (Carousel)               | **Hook:** How does blue light affect your eyes?<br>**Body:** Blue light from screens may contribute to eye strain and sleep disruption. Simple habits like screen breaks and blue light filters can help. Always consult a specialist for personalized advice.<br>**CTA:** Swipe for expert tips on managing blue light exposure. | 8:00 PM          | #BlueLight #EyeHealth #DigitalWellness #ConsultASpecialist #HealthyEyes #ScreenTimeTips #VisionCare<br>Visual Brief: Modern infographic style with blue accents, icons of screens, eyes, and sleep. |
+| Week 4, Wed    | Social Proof: Cataract Surgery Patient Testimonial (Static Image) | **Hook:** “I can enjoy my hobbies again!” - Michael.<br>**Body:** Michael regained clear vision after cataract surgery with our compassionate care team. Personalized treatment and support made all the difference.<br>**CTA:** Ready to see clearly? Schedule a consultation. | 7:00 PM          | #CataractCare #PatientTestimonial #VisionRestoration #EyeHealth #ConsultASpecialist #ClearVision #QualityOfLife<br>Visual Brief: Warm portrait of patient outdoors, natural light, hospital branding subtly included. |
+| Week 4, Fri    | Conversion: LASIK Limited-Time Offer (Static Image)         | **Hook:** Ready for life-changing vision? Limited LASIK offer!<br>**Body:** For a limited time, get exclusive pricing on LASIK surgery with our expert surgeons. Personalized care and advanced technology ensure the best results. Consult a specialist to determine if LASIK is right for you.<br>**CTA:** Book your free consultation today—spots filling fast! | 8:30 PM          | #LASIKOffer #VisionCorrection #EyeCareSpecialist #ClearVision #ConsultASpecialist #LaserEyeSurgery #LimitedTime<br>Visual Brief: Bold, clean promotional graphic with countdown timer, hospital logo, and call-to-action button style. |
+```
 
----
-
-### Week 1
-
-**Post 1: General Eye Health Awareness**  
-- **Caption:**  
-Your eyes are your windows to the world. Regular eye check-ups can help detect problems early and keep your vision clear. Remember to take breaks from screens and maintain a balanced diet rich in vitamins A, C, and E. Healthy habits today mean sharper sight tomorrow!  
-- **Hashtags:** #EyeHealth #HealthyVision #EyeCareTips #VisionMatters #EyeSpecialist  
-- **Best Posting Time:** Wednesday, 11 AM  
-- **Content Format:** Carousel (tips for eye health)
-
-**Post 2: Patient's Success Story**  
-- **Caption:**  
-Meet Mr. Raj, who regained his clear vision after a successful cataract surgery at our hospital. “I can now enjoy my morning walks and read my favorite books again. The care and support from the team were exceptional.” Your vision journey matters to us.  
-- **Hashtags:** #PatientStory #CataractSurgery #ClearVision #EyeCareJourney #HappyPatient  
-- **Best Posting Time:** Friday, 5 PM  
-- **Content Format:** Image (photo of patient with a quote)
-
-**Post 3: Special Offers**  
-- **Caption:**  
-See the world more clearly with our limited-time LASIK offer! Book your consultation this month and enjoy a 15% discount on LASIK surgery. Our expert surgeons use the latest technology for safe and precise vision correction. Don’t miss this chance!  
-- **Hashtags:** #LASIKOffer #VisionCorrection #EyeCareDiscount #ClearVision #EyeSpecialist  
-- **Best Posting Time:** Sunday, 2 PM  
-- **Content Format:** Reel (short video explaining LASIK benefits + offer)
-
----
-
-### Week 2
-
-**Post 1: General Eye Health Awareness**  
-- **Caption:**  
-Did you know that UV rays can harm your eyes just like your skin? Protect your eyes by wearing sunglasses with UV protection whenever you’re outdoors. Healthy eyes mean a brighter tomorrow. Stay safe and see clearly!  
-- **Hashtags:** #UVProtection #Sunglasses #EyeHealthTips #ProtectYourEyes #EyeCare  
-- **Best Posting Time:** Tuesday, 10 AM  
-- **Content Format:** Image (illustration of UV rays and sunglasses)
-
-**Post 2: Patient's Success Story**  
-- **Caption:**  
-Mrs. Anita shares her journey with contact lenses after years of glasses! “Switching to contact lenses gave me the freedom to live without restrictions. The hospital team guided me carefully through every step.” Your comfort and vision are our priority.  
-- **Hashtags:** #ContactLenses #PatientJourney #EyeCare #VisionFreedom #HappyEyes  
-- **Best Posting Time:** Thursday, 4 PM  
-- **Content Format:** Carousel (before and after + testimonial)
-
-**Post 3: Special Offers**  
-- **Caption:**  
-Thinking about contact lenses? Now’s the perfect time! Get 10% off on all contact lens fittings and trials this month. Experience comfort and clear vision tailored just for you. Book your appointment today!  
-- **Hashtags:** #ContactLensOffer #EyeCareDiscount #ClearVision #EyeSpecialist #VisionCare  
-- **Best Posting Time:** Saturday, 1 PM  
-- **Content Format:** Image (offer highlighted with contact lens visuals)
-
----
-
-### Week 3
-
-**Post 1: General Eye Health Awareness**  
-- **Caption:**  
-Struggling with dry eyes? It’s more common than you think, especially with increased screen time. Stay hydrated, blink often, and consider using artificial tears after consulting your eye specialist. Healthy eyes, happy life!  
-- **Hashtags:** #DryEyes #EyeCareTips #HealthyVision #ScreenTimeCare #EyeHealth  
-- **Best Posting Time:** Monday, 9 AM  
-- **Content Format:** Carousel (symptoms and remedies for dry eyes)
-
-**Post 2: Patient's Success Story**  
-- **Caption:**  
-After LASIK surgery, Mr. Sameer is enjoying crystal-clear vision without glasses! “The procedure was quick and painless, and the results are incredible. The team’s professionalism gave me great confidence.” Your vision, our mission.  
-- **Hashtags:** #LASIKSuccess #ClearVision #PatientStory #EyeCare #VisionCorrection  
-- **Best Posting Time:** Wednesday, 6 PM  
-- **Content Format:** Reel (patient testimonial clip)
-
-**Post 3: Special Offers**  
-- **Caption:**  
-Cataract surgery made affordable! This month, avail a 20% discount on our advanced cataract surgery packages. Regain your clear sight with expert care and cutting-edge technology. Schedule your consultation now!  
-- **Hashtags:** #CataractSurgery #EyeCareDiscount #ClearVision #EyeHealth #VisionCare  
-- **Best Posting Time:** Friday, 3 PM  
-- **Content Format:** Image (offer banner with surgery visuals)
-
----
-
-### Week 4
-
-**Post 1: General Eye Health Awareness**  
-- **Caption:**  
-Children’s eye health matters! Early eye exams can detect issues that affect learning and development. If your child hasn’t had an eye check-up recently, book an appointment today. Healthy eyes pave the way for a bright future.  
-- **Hashtags:** #ChildEyeCare #EyeHealthAwareness #VisionForKids #HealthyEyes #EyeSpecialist  
-- **Best Posting Time:** Tuesday, 11 AM  
-- **Content Format:** Image (child-friendly eye exam photo)
-
-**Post 2: Patient's Success Story**  
-- **Caption:**  
-Mrs. Priya’s life changed after her successful treatment for glaucoma. “Thanks to the hospital’s expert care, my eye pressure is controlled, and I’m enjoying life without worry.” Early diagnosis and treatment save vision!  
-- **Hashtags:** #GlaucomaCare #PatientStory #EyeHealth #VisionCare #EyeSpecialist  
-- **Best Posting Time:** Thursday, 5 PM  
-- **Content Format:** Carousel (patient photo + brief story)
-
-**Post 3: Special Offers**  
-- **Caption:**  
-Contact lenses or glasses? Why not both! Avail 15% off on combined packages this month. Our experts will help you find the perfect fit for your lifestyle and vision needs. Book your eye care consultation today!  
-- **Hashtags:** #EyeCareOffer #VisionPackages #ContactLensDiscount #GlassesOffer #HealthyVision  
-- **Best Posting Time:** Sunday, 12 PM  
-- **Content Format:** Reel (explainer video on benefits of combined packages)
-
----
-
-If you want, I can also help draft the actual images or video scripts!
