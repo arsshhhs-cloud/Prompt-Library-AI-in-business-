@@ -1,4 +1,4 @@
-## Prompt 1: Patient retention email/campaign
+## Prompt 2: Patient retention email/campaign
 
 **Prompt Text:**  
 Role: Senior Healthcare Retention Strategist (10+ years exp).
