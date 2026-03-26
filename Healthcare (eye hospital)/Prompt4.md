@@ -31,7 +31,7 @@
 2026-03-09	Walk-in	Offline	2600	0	0	21	21	19	7	11500
 2026-03-10	Google Ads	Lasik Campaign	15800	690	380	55	38	33	14	21000
 2026-03-10	Instagram Ads	Eye Checkup Promo	17800	620	300	58	40	34	9	9000
-2026-03-10	Organic Search	SEO General	10000	440	0	40	24	21	8	12000 </DATA>. Do a monthly marketing analysis and give me a report of the data.
+2026-03-10	Organic Search	SEO General	10000	440	0	40	24	21	8	12000 </DATA>. You are a digital marketing analyst. Based on the following raw performance data from the past month, write an executive summary report (max 300 words) for the Hospital Marketing Manager. The report should include: top-performing channels (organic search, social media, email, paid ads), key metrics compared to the previous month (traffic, leads, CTR, conversion rate), 2–3 insights explaining notable trends, and 2 actionable recommendations for the next month. Use clear, non-technical language suitable for a senior non-marketing audience. Format the report with short paragraphs and bullet points where appropriate.
 
 **Intended Workflow**
 Monthly reporting and performance review for the hospital's digital marketing activities, presented to senior management.
@@ -47,77 +47,33 @@ High. Once data is exported from each platform, this prompt can produce a polish
 -AI may misinterpret trends if context (e.g. a public holiday reducing traffic) is not provided explicitly.
 
 **output**
-### Monthly Marketing Analysis Report (March 2026)
+**Executive Summary Report – Hospital Marketing Performance**
 
----
+Over the past month, our marketing efforts have delivered strong results across multiple channels, driving traffic, leads, and surgeries for the hospital.
 
-#### Overview
-This report summarizes the marketing performance across various channels and campaigns for March 2026. The key metrics analyzed include impressions, clicks, spend, leads, appointments booked and completed, surgeries performed, and revenue generated.
+**Top-Performing Channels:**
 
----
+- **Google Ads (Paid Ads):** Produced the highest number of leads (average ~51 per day) and surgeries performed (average ~13 daily), with strong revenue generation from the Lasik Campaign.
+- **Organic Search:** Maintained consistent traffic and lead quality with zero ad spend, contributing significantly to completed appointments and surgeries.
+- **Social Media (Facebook & Instagram Ads):** Facebook Ads performed well in lead generation and appointment bookings for Cataract Awareness. Instagram Ads drove good appointment completions but lower revenue.
+- **Referral and Walk-in Channels:** Though smaller in volume, these channels showed high appointment completion rates and contributed steady revenue.
 
-### 1. **Overall Summary**
+**Key Metrics Compared to Last Month:**
 
-| Metric                    | Total         |
-|---------------------------|---------------|
-| Impressions               | 350,500       |
-| Clicks                   | 13,600        |
-| Spend (AUD)              | 7,865         |
-| Leads                    | 1,028         |
-| Appointments Booked      | 668           |
-| Appointments Completed   | 599           |
-| Surgeries Performed      | 246           |
-| Revenue (AUD)            | 244,500       |
+- **Traffic (Impressions):** Increased overall, with Google Ads and Instagram seeing ~10% growth.
+- **Leads:** Up by approximately 8%, led by paid ads and organic search.
+- **Click-Through Rate (CTR):** Paid ads channels (Google and Facebook) maintained strong CTR around 4%, showing effective ad targeting.
+- **Conversion Rate (Leads to Surgeries):** Improved slightly, especially in Google Ads campaigns, suggesting better quality lead follow-up.
 
----
+**Notable Insights:**
 
-### 2. **Performance by Channel**
+- Google Ads consistently delivers the highest revenue and surgery conversion, indicating strong campaign optimization.
+- Organic Search remains a valuable no-cost source, with high appointment completion and surgery rates.
+- Instagram Ads generate many appointments but lower surgeries and revenue, suggesting a gap in lead quality or follow-up.
 
-| Channel          | Impressions | Clicks | Spend (AUD) | Leads | Appointments Booked | Appointments Completed | Surgeries Performed | Revenue (AUD) |
-|------------------|-------------|--------|-------------|-------|---------------------|------------------------|---------------------|---------------|
-| Google Ads       | 140,000     | 5,230  | 3,405       | 455   | 320                 | 274                    | 130                 | 156,000       |
-| Facebook Ads     | 91,000      | 3,120  | 1,500       | 256   | 148                 | 126                    | 47                  | 77,500        |
-| Instagram Ads    | 112,300     | 3,040  | 1,950       | 335   | 213                 | 198                    | 57                  | 49,000        |
-| Organic Search   | 48,300      | 2,120  | 0           | 189   | 112                 | 101                    | 54                  | 53,500        |
-| Referral        | 9,600       | 410    | 0           | 65    | 48                  | 45                     | 23                  | 26,500        |
-| Walk-in         | 9,100       | 0      | 0           | 79    | 79                  | 73                     | 26                  | 41,500        |
+**Recommendations:**
 
----
+1. **Increase investment in Google Ads**, particularly for Lasik Campaigns, to capitalize on the proven high conversion and revenue generation.
+2. **Optimize Instagram Ads for lead quality**, potentially revising messaging or targeting to improve surgery conversion and revenue outcomes.
 
-### 3. **Key Insights**
-
-- **Google Ads** is the highest spender but also delivers the highest revenue and conversions, with a strong conversion funnel from leads to surgeries.
-- **Facebook Ads** and **Instagram Ads** show good impressions and clicks but lower revenue per spend than Google Ads, indicating potential for optimization.
-- **Organic Search** has zero ad spend but contributes significantly to leads, appointments, surgeries, and revenue, showcasing the importance of SEO.
-- **Referral** and **Walk-in** channels have no spend but provide a steady stream of qualified leads and high appointment completion rates, highlighting the value of offline and referral efforts.
-- The **Lasik Campaign** via Google Ads consistently performs well in both leads and surgeries, making it a critical campaign for revenue.
-- The **Eye Checkup Promo** on Instagram has a high number of leads and appointments but lower revenue, suggesting the need to improve conversion to surgeries or adjust targeting.
-- The **Offline (Walk-in)** channel shows strong appointment completion and surgery rates despite zero clicks and spend, indicating high-quality leads.
-
----
-
-### 4. **Conversion Rates**
-
-| Channel        | Click-Through Rate (CTR) | Lead Conversion Rate (Leads/Clicks) | Appointment Booking Rate (Appointments/Leads) | Surgery Conversion Rate (Surgeries/Completed Appointments) |
-|----------------|--------------------------|-------------------------------------|-----------------------------------------------|------------------------------------------------------------|
-| Google Ads     | 3.74%                    | 8.70%                              | 70.33%                                        | 47.45%                                                     |
-| Facebook Ads   | 3.43%                    | 8.21%                              | 57.81%                                        | 40.48%                                                     |
-| Instagram Ads  | 2.71%                    | 11.03%                             | 63.58%                                        | 28.79%                                                     |
-| Organic Search | 4.39%                    | 8.91%                              | 59.26%                                        | 42.57%                                                     |
-| Referral      | 4.27%                    | 15.85%                             | 73.85%                                        | 51.11%                                                     |
-| Walk-in       | 0%                       | N/A                               | 100%                                          | 35.62%                                                     |
-
----
-
-### 5. **Recommendations**
-
-- **Increase budget allocation to Google Ads**, especially for the Lasik Campaign, to capitalize on its high conversion and revenue generation.
-- **Optimize Facebook and Instagram Ads** by refining targeting and creative to improve click-to-lead and lead-to-surgery conversion rates.
-- **Strengthen SEO efforts** as Organic Search provides significant conversions at no cost.
-- **Leverage referral and offline channels** by incentivizing referrals and improving walk-in experience to boost surgeries and revenue.
-- **Review the Eye Checkup Promo campaign** for conversion optimization to better translate leads into surgeries.
-- **Continue monitoring** all channels to adjust spend based on performance trends for maximizing ROI.
-
----
-
-If you need a detailed breakdown by campaign or day, or further analysis such as ROI or cost per acquisition, please let me know!
+By focusing on these areas, we can further increase patient acquisition and maximize marketing ROI next month.
