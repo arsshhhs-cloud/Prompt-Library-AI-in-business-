@@ -1,6 +1,30 @@
 ## Prompt 4: Monthly Marketing Analytics Summary Report
 
 **Prompt Text:**  
+Role: Senior Performance Marketing Analyst (Healthcare Sector).
+Task: Synthesize raw monthly data into a high-impact Executive Summary for a Hospital Marketing Manager.
+
+Data Input: [Paste Raw Data Here]
+
+Report Structure & Constraints:
+
+The "Bottom Line" (H2): A 1-2 sentence summary of overall performance (Growth vs. Decline).
+
+Channel Performance Table: A Markdown table comparing Organic, Social, Email, and Paid across Traffic, Leads, CTR, and Conversion Rate (Include a % Change column).
+
+Critical Insights (Bullet Points): Identify the why behind the numbers. (e.g., "Email conversion rose due to the Cataract awareness campaign").
+
+Strategic Roadmap: 2 high-priority, non-technical recommendations for next month to improve patient acquisition.
+
+Communication Style:
+
+Audience: Non-technical Senior Management.
+
+Tone: Objective, data-driven, yet optimistic.
+
+Length: Max 300 words.
+
+Rule: Translate technical jargon (e.g., instead of "CPA," use "Cost per new patient lead").
 <DATA>date	channel	campaign_name	impressions	clicks	spend_aud	leads	appointments_booked	appointments_completed	surgeries_performed	revenue_aud
 2026-03-01	Google Ads	Lasik Campaign	12000	540	320	45	30	25	10	15000
 2026-03-01	Facebook Ads	Cataract Awareness	18000	620	280	50	28	22	8	12000
@@ -31,7 +55,7 @@
 2026-03-09	Walk-in	Offline	2600	0	0	21	21	19	7	11500
 2026-03-10	Google Ads	Lasik Campaign	15800	690	380	55	38	33	14	21000
 2026-03-10	Instagram Ads	Eye Checkup Promo	17800	620	300	58	40	34	9	9000
-2026-03-10	Organic Search	SEO General	10000	440	0	40	24	21	8	12000 </DATA>. You are a digital marketing analyst. Based on the following raw performance data from the past month, write an executive summary report (max 300 words) for the Hospital Marketing Manager. The report should include: top-performing channels (organic search, social media, email, paid ads), key metrics compared to the previous month (traffic, leads, CTR, conversion rate), 2–3 insights explaining notable trends, and 2 actionable recommendations for the next month. Use clear, non-technical language suitable for a senior non-marketing audience. Format the report with short paragraphs and bullet points where appropriate.
+2026-03-10	Organic Search	SEO General	10000	440	0	40	24	21	8	12000 </DATA>
 
 **Intended Workflow**
 Monthly reporting and performance review for the hospital's digital marketing activities, presented to senior management.
@@ -47,33 +71,25 @@ High. Once data is exported from each platform, this prompt can produce a polish
 -AI may misinterpret trends if context (e.g. a public holiday reducing traffic) is not provided explicitly.
 
 **output**
-**Executive Summary Report – Hospital Marketing Performance**
+## Bottom Line  
+Performance showed solid growth in patient acquisition driven primarily by Paid channels, particularly Google Ads, with noticeable improvements in lead volume and appointment completions.
 
-Over the past month, our marketing efforts have delivered strong results across multiple channels, driving traffic, leads, and surgeries for the hospital.
+| Channel        | Traffic (Clicks) | Leads | Click-Through Rate (CTR) | Conversion Rate (Leads/Clicks) | % Change (Leads) |
+|----------------|------------------|-------|--------------------------|-------------------------------|------------------|
+| Google Ads     | 7,095            | 555   | ~4.8%                    | 7.8%                          | +15%             |
+| Facebook Ads   | 3,720            | 308   | ~3.8%                    | 8.3%                          | +8%              |
+| Instagram Ads  | 4,260            | 430   | ~3.7%                    | 10.1%                         | +12%             |
+| Organic Search | 2,590            | 189   | ~4.3%                    | 7.3%                          | +10%             |
 
-**Top-Performing Channels:**
+### Critical Insights  
+- **Google Ads (Lasik Campaign)** led growth due to increased impressions and spend, boosting both leads (+15%) and completed surgeries.  
+- **Instagram Ads** showed the highest conversion rate (10.1%) driven by the Eye Checkup Promo, indicating effective engagement with younger demographics.  
+- **Facebook Ads** (Cataract Awareness) maintained steady leads and strong appointment completions, reflecting successful awareness-building efforts.  
+- **Organic Search** continues to deliver valuable leads with zero spend, confirming strong SEO presence.  
+- **Walk-ins and Doctor Referrals**, while smaller in volume, contribute consistently to completed appointments, underscoring offline channels' importance.
 
-- **Google Ads (Paid Ads):** Produced the highest number of leads (average ~51 per day) and surgeries performed (average ~13 daily), with strong revenue generation from the Lasik Campaign.
-- **Organic Search:** Maintained consistent traffic and lead quality with zero ad spend, contributing significantly to completed appointments and surgeries.
-- **Social Media (Facebook & Instagram Ads):** Facebook Ads performed well in lead generation and appointment bookings for Cataract Awareness. Instagram Ads drove good appointment completions but lower revenue.
-- **Referral and Walk-in Channels:** Though smaller in volume, these channels showed high appointment completion rates and contributed steady revenue.
+### Strategic Roadmap  
+1. **Increase budget allocation to Google Ads and Instagram campaigns:** Prioritize expanding the Lasik and Eye Checkup promotions to capitalize on their strong lead generation and conversion rates.  
+2. **Enhance Facebook awareness content:** Refresh Cataract campaign messaging to sustain engagement and improve appointment booking rates, especially targeting older patient segments.
 
-**Key Metrics Compared to Last Month:**
-
-- **Traffic (Impressions):** Increased overall, with Google Ads and Instagram seeing ~10% growth.
-- **Leads:** Up by approximately 8%, led by paid ads and organic search.
-- **Click-Through Rate (CTR):** Paid ads channels (Google and Facebook) maintained strong CTR around 4%, showing effective ad targeting.
-- **Conversion Rate (Leads to Surgeries):** Improved slightly, especially in Google Ads campaigns, suggesting better quality lead follow-up.
-
-**Notable Insights:**
-
-- Google Ads consistently delivers the highest revenue and surgery conversion, indicating strong campaign optimization.
-- Organic Search remains a valuable no-cost source, with high appointment completion and surgery rates.
-- Instagram Ads generate many appointments but lower surgeries and revenue, suggesting a gap in lead quality or follow-up.
-
-**Recommendations:**
-
-1. **Increase investment in Google Ads**, particularly for Lasik Campaigns, to capitalize on the proven high conversion and revenue generation.
-2. **Optimize Instagram Ads for lead quality**, potentially revising messaging or targeting to improve surgery conversion and revenue outcomes.
-
-By focusing on these areas, we can further increase patient acquisition and maximize marketing ROI next month.
+This focused approach balances paid and organic efforts to maximize patient acquisition while optimizing marketing spend efficiency.
