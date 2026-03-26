@@ -1,4 +1,4 @@
-## title: SMS appointment reminder with health tips.
+Prompt5: SMS appointment reminder with health tips.
 
 **prompt text:**
 Role: Senior Healthcare Communications Specialist (UX Writing).
