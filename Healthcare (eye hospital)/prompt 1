@@ -1,1 +1,17 @@
+## Prompt 1: [Content calender for eye hospital]
 
+**Prompt Text:**  
+Generate a 4 weeks content calendar for an eye-speciality hospital targeting the general public. Each week should have 3 posts.
+
+**Intended Workflow/Task:**  
+Monthly social media planning and content creation across Instagram and Facebook.
+
+**Problem Being Solved:**  
+Marketing staff spend significant time each week manually writing individual posts from scratch, leading to inconsistent output and burnout during campaign periods.
+
+**Automation Potential:**  
+High, This prompt can be re-run monthly with simple swap of featured services and seasonal theme (eg- Glaucoma awarness, Cataract, Children vision week). Reducing content planning time from several hours to 30-40 minutes.
+
+**Risks & Limitations:**  
+-Clinical Inaccuracy: AI may hallucinate medical advice or oversimplify complex eye conditions, leading to potential patient misinformation.
+-Regulatory Non-Compliance: Content might inadvertently breach strict healthcare advertising codes (like AHPRA) regarding medical claims or testimonials.
