@@ -1,7 +1,31 @@
-**title:** - SMS appointment reminder with health tips- DONE
+**title:** - SMS appointment reminder with health tips.
 
 **prompt text:**
-You are a patient communications specialist at an eye-specialty hospital. Write 5 variations of a short SMS message (max 150 characters each) to send to patients 48 hours before their scheduled eye appointment. Each variation should: confirm the appointment details using placeholder fields [Patient Name], [Date], [Time], include one brief eye health tip relevant to their visit type (general check-up, post-surgery, contact lens review), and include a link to reschedule if needed. Keep the tone friendly, professional, and concise.
+Role: Senior Healthcare Communications Specialist (UX Writing).
+Task: Generate a library of 5 intent-specific SMS appointment reminders for an eye-specialty hospital.
+Constraint: Maximum 150 characters per SMS (to prevent multi-segment billing).
+
+The Five Specific Intents:
+
+Routine/General: Tip on resting eyes from screens.
+
+Post-Surgery (e.g., LASIK/Cataract): Tip on bringing sunglasses for light sensitivity.
+
+Contact Lens Review: Tip on not wearing lenses 24h prior.
+
+Diagnostic/Dilation: Tip on arranging a driver for home.
+
+New Patient: Tip on arriving 10 mins early for paperwork.
+
+Requirements per Variation:
+
+Personalization: Use tags [Name], [Date], [Time].
+
+Call to Action: Include a placeholder link [Link].
+
+Structure: Friendly greeting + Confirmation + 1 Medical Tip + CTA.
+
+Formatting: Present as a numbered list with a "Character Count" check for each.
 
 **Intended Workflow:**
 Automated pre-appointment SMS reminders sent via the hospital's CRM system.
@@ -18,12 +42,17 @@ Very High. SMS templates generated here can be loaded directly into platforms an
 - AI cannot tailor messages to individual medical history or preferences.
 
 **Output:**
-1. Hi [Patient Name], your eye check-up is on [Date] at [Time]. Remember to rest your eyes frequently! Need to reschedule? Click: [Link]
+1. Hi [Name], your eye check is on [Date] at [Time]. Rest screens for 20 mins/hr to ease eye strain. Confirm: [Link]  
+Character Count: 139
 
-2. Hello [Patient Name], your post-surgery review is on [Date] at [Time]. Avoid rubbing your eyes for faster healing. Reschedule here: [Link]
+2. Hello [Name], your post-surgery visit is [Date] at [Time]. Bring sunglasses for light sensitivity. Confirm: [Link]  
+Character Count: 126
 
-3. Dear [Patient Name], your contact lens review is on [Date] at [Time]. Always wash hands before handling lenses! Change plans? Reschedule: [Link]
+3. Hi [Name], your contact lens review is on [Date] at [Time]. Avoid lenses 24h before your visit. Confirm: [Link]  
+Character Count: 131
 
-4. Hi [Patient Name], your eye exam is scheduled for [Date] at [Time]. Stay hydrated to keep your eyes comfortable. Reschedule anytime: [Link]
+4. Hello [Name], your diagnostic test with dilation is on [Date] at [Time]. Arrange a driver for home. Confirm: [Link]  
+Character Count: 134
 
-5. Hello [Patient Name], your post-op appointment is on [Date] at [Time]. Use prescribed drops as directed for best results. Need to reschedule? [Link]
+5. Hi [Name], your new patient appointment is [Date] at [Time]. Arrive 10 mins early for paperwork. Confirm: [Link]  
+Character Count: 134
