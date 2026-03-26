@@ -1,7 +1,34 @@
 ## Prompt 3: SEO Blog Article for Eye Health Awareness
 
 **Prompt Text:**  
-You are an SEO content writer specialising in healthcare. Write a 600-word blog article for an eye-specialty hospital website targeting the keyword 'signs you need an eye test'. The article should be written for a general audience with no assumed medical knowledge. Structure it with an engaging introduction, 4–5 subheadings covering common symptoms (e.g. blurred vision, headaches, difficulty driving at night), a section on when to see a specialist, and a closing call-to-action to book an appointment. Use a reassuring and informative tone. Include the primary keyword naturally 3–4 times and suggest 2 internal link opportunities to relevant service pages.
+Role: Specialist Healthcare SEO Content Writer (Expert Level).
+Objective: Write a high-conversion, 600-word blog post for an eye-specialty hospital.
+Primary Keyword: "signs you need an eye test" (Target 3–4x naturally).
+Secondary Keywords: "vision check-up," "eye strain symptoms," "optometrist appointment."
+
+Structure & Flow:
+
+Hook: Empathize with modern visual fatigue (screen time).
+
+H2 - The Subtle Signs: Covering blurred vision and frequent headaches.
+
+H2 - Low-Light Challenges: Focusing on night driving and glare sensitivity.
+
+H2 - Physical Cues: Squinting, eye rubbing, or dry eyes.
+
+H2 - Professional Consultation: When "at-home" monitoring isn't enough.
+
+CTA: Urgent but reassuring prompt to book a bulk-billed or specialist exam.
+
+Technical Requirements:
+
+Readability: Grade 7-8 level. Use short sentences and bullet points for scannability.
+
+Internal Linking: Identify two logical anchor text placements for [LASIK Services] and [Cataract Surgery].
+
+Tone: Authoritative yet warm; avoid "medical clinical" coldness.
+
+Formatting: Use proper H1, H2, and H3 nested tags.
 
 **Intended Workflow**
 Ongoing SEO content production for the hospital's website blog to drive search traffic.
@@ -17,68 +44,55 @@ High. A prompt template like this can be reused for different target keywords ea
 -Keyword research must still be done by a human using tools like Google Search Console or SEMrush, as the AI cannot access live search data.
 
 **Output**
-**Signs You Need an Eye Test: Protecting Your Vision Starts Here**
+```markdown
+# Signs You Need an Eye Test: Don’t Ignore Your Eyes in the Digital Age
 
-Your eyes are your window to the world, allowing you to experience the vibrant colors, faces, and moments that make life special. But like any part of your body, your eyes need regular care to stay healthy. Sometimes, your eyes send subtle signals that it’s time for a check-up. Knowing the signs you need an eye test can help you catch potential problems early and maintain your vision for years to come.
+In today’s world, screens are everywhere. From work to leisure, our eyes face constant strain. Long hours on computers, smartphones, and tablets can lead to visual fatigue. But how do you know when it’s time to see an eye specialist? Recognizing the **signs you need an eye test** can protect your vision and improve your quality of life.
 
-In this article, we’ll explore common symptoms that indicate you should schedule an eye exam, explain when it’s crucial to see a specialist, and guide you on taking the next step toward clearer, healthier vision.
+## The Subtle Signs
 
----
+Sometimes, eye problems don’t announce themselves loudly. They creep up in small ways you might overlook:
 
-### Blurred or Double Vision
+- **Blurred vision:** Objects may seem fuzzy or out of focus.
+- **Frequent headaches:** Especially after reading or screen use.
+- Difficulty concentrating on tasks that require clear vision.
 
-One of the most noticeable signs you need an eye test is blurred or double vision. If you find yourself struggling to see things clearly—whether reading a book, watching TV, or recognizing faces—it could be a sign that your vision is changing. Blurred vision can be caused by common issues like nearsightedness or farsightedness but may also indicate more serious conditions such as cataracts or eye strain.
+If these symptoms sound familiar, it’s a good idea to schedule a **vision check-up**. Early detection helps prevent more serious issues.
 
-Double vision, where you see two images of a single object, should always be taken seriously. It may result from muscle imbalances or neurological problems and requires prompt evaluation by an eye care professional.
+## Low-Light Challenges
 
----
+Do you find driving at night harder than before? Are bright headlights or streetlights causing discomfort?
 
-### Frequent Headaches or Eye Strain
+- Difficulty seeing in dim light.
+- Increased sensitivity to glare.
+- Trouble adjusting from bright to dark environments.
 
-Do you often experience headaches, especially after reading, using a computer, or focusing on small objects? Eye strain is a frequent culprit. When your eyes work harder than usual to focus, it can cause discomfort, fatigue, and headaches. This might mean your prescription for glasses or contact lenses is outdated or that you have an underlying vision problem.
+These are common **eye strain symptoms** linked to underlying vision problems. Don’t wait until these issues affect your daily life.
 
-Persistent headaches related to visual tasks are a clear sign you need an eye test. Early detection can help adjust your prescription or recommend lifestyle changes to ease the strain.
+## Physical Cues
 
----
+Your body often signals when your eyes need help. Watch out for:
 
-### Difficulty Driving at Night
+- Constant squinting to see better.
+- Frequent eye rubbing or blinking.
+- Dry, itchy, or watery eyes.
 
-Night driving can be challenging if your eyes are not in optimal condition. If you notice glare from headlights, halos around lights, or difficulty seeing road signs in low light, these are signs you need an eye test. Conditions like astigmatism or early cataracts may reduce your ability to see clearly at night.
+Such physical signs indicate your eyes are working too hard. This discomfort is a clear signal that a professional assessment is necessary.
 
-Addressing these issues promptly can improve your safety on the road and give you more confidence behind the wheel.
+## Professional Consultation
 
----
+While home remedies and breaks can reduce eye strain, they aren’t always enough. If you notice any of the above signs, it’s time for an **optometrist appointment**. A thorough eye test will:
 
-### Frequent Eye Irritation or Dryness
+- Identify changes in your vision.
+- Detect early signs of eye conditions.
+- Provide tailored advice or treatments.
 
-If your eyes often feel dry, itchy, or irritated, it could indicate an underlying problem that needs professional attention. Dry eye syndrome is common and can result from environmental factors, prolonged screen time, or certain medical conditions.
+Don’t delay—your eyes deserve expert care.
 
-While over-the-counter eye drops may provide temporary relief, persistent discomfort warrants a comprehensive eye examination to identify the cause and receive appropriate treatment.
-
----
-
-### When Should You See a Specialist?
-
-While regular eye tests are essential, some symptoms require urgent specialist care. Sudden vision loss, flashes of light, floaters (small spots or threads drifting in your vision), or severe eye pain should never be ignored. These could signal serious conditions such as retinal detachment, glaucoma, or infections that need immediate treatment.
-
-If you experience any of these symptoms, contact an eye specialist without delay. Early intervention can prevent permanent vision damage.
-
----
-
-### Take Charge of Your Eye Health Today
-
-Being aware of the signs you need an eye test empowers you to take control of your eye health. Regular eye exams not only update your prescription but also help detect conditions before they affect your vision permanently.
-
-At [Your Eye Specialty Hospital], we offer comprehensive eye examinations tailored to your needs. Whether you’re experiencing symptoms or it’s simply time for your routine check-up, our experienced team is here to provide expert care in a comfortable environment.
-
-Don’t wait until minor issues become major problems. **Book your eye test appointment today** and ensure your vision stays clear and healthy for years to come.
+For those interested in vision correction, explore our [LASIK Services] which can improve eyesight without glasses. If cataracts are affecting your vision, learn more about our advanced [Cataract Surgery] options.
 
 ---
 
-### Suggested Internal Links:
-- Learn more about our [Comprehensive Eye Exams](#)  
-- Explore treatments available at our [Cataract Clinic](#)
-
----
-
+Your vision is precious. If you recognize any of these signs you need an eye test, book a bulk-billed or specialist exam today. Early action can save your sight and bring back clarity to your world.
+```
 By staying attentive to your eyes and acting on these signs, you’re taking a vital step toward preserving one of your most precious senses. Remember, clear vision is not just about seeing well—it’s about seeing life fully.
