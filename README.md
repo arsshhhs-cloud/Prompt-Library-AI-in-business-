@@ -31,15 +31,15 @@ Each prompt entry follows the same structure:
 
 | ID | Prompt Name | Workflow | Automation Level | Risk Level | Status |
 |----|-------------|----------|-----------------|------------|--------|
-| P01 | social media content calender | operations | High | Low | ✅ Tested |
+| P01 | social media content calender | Operations | High | Low | ✅ Tested |
 | P02 | Patient retention email/campaign | customer service | Very High | Medium | ✅ Tested |
-| P03 | SEO Blog Article for Eye Health Awareness| Operations | High | Low | ✅ Tested |
+| P03 | SEO Blog Article for Eye Health Awareness | Operations | High | Low | ✅ Tested |
 | P04 | Monthly Marketing Analytics Summary Report | Operations | High | Low | ✅ Tested |
 | P05 | SMS appointment reminder with health tips | Customer service | Very High | Medium | ✅ Tested |
-| P06 |   [Your prompt]| Customer service | Very High | Medium | 🔄 In progress |
-| P07 |   [Your prompt]| Customer service | High | Medium | 🔄 In progress |
-| P08 |  [Your prompt]| Customer service | Medium | High | 🔄 In progress|
-| P09 | [Your prompt] | [Workflow] | [Level] | [Level] | 🔄 In progress |
+| P06 | HR / Recruitment — Job Description Generator | Operations | Very High | Low | ✅ Tested  |
+| P07 | Influencer & Community Partnership Outreach Email Generator | Operations | High | Medium | ✅ Tested  |
+| P08 | CV Screening Shortlist | Customer service | Medium | Medium | ✅ Tested |
+| P09 | Interview Question Builder | Operations | High | Low | ✅ Tested |
 | P10 | Post-Consultation Patient Follow-Up Message Generator| Customer service | Very High | Medium | ✅ Tested |
 
 **Automation levels:** Very High / High / Medium / Low  
