@@ -62,4 +62,6 @@ All prompt versions are saved in this repository. See individual prompt files fo
  **Clarity,**
  **Actionability,** 
 
+ (Prompt1 and Prompt10 sample evaluation) 
+
 ---
