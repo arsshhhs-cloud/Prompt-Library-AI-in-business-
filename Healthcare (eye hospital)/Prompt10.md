@@ -41,7 +41,7 @@ FORMAT: Email/Sms
 ---
 
 **Input:**
-* Put patients consultation report data between <DATA> </DATA>. 
+* Put patients consultation report in data section 
 
 ---
 
