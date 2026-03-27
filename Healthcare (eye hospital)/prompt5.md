@@ -1,8 +1,9 @@
 ## Prompt5: SMS appointment reminder with health tips.
+- Status- Tested✅
 
 ---
 
-**prompt text:**
+**📌prompt text:**
 Role: Senior Healthcare Communications Specialist (UX Writing).
 Task: Generate a library of 5 intent-specific SMS appointment reminders for an eye-specialty hospital.
 Constraint: Maximum 150 characters per SMS (to prevent multi-segment billing).
