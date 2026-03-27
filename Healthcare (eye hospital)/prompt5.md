@@ -1,5 +1,7 @@
 ## Prompt5: SMS appointment reminder with health tips.
 
+---
+
 **prompt text:**
 Role: Senior Healthcare Communications Specialist (UX Writing).
 Task: Generate a library of 5 intent-specific SMS appointment reminders for an eye-specialty hospital.
@@ -27,6 +29,8 @@ Structure: Friendly greeting + Confirmation + 1 Medical Tip + CTA.
 
 Formatting: Present as a numbered list with a "Character Count" check for each.
 
+---
+
 **Intended Workflow:**
 Automated pre-appointment SMS reminders sent via the hospital's CRM system.
 
@@ -40,6 +44,8 @@ Very High. SMS templates generated here can be loaded directly into platforms an
 - Character limits-constrain how much information can be included; prompt outputs must be carefully checked.
 - Patients must have provided consent to receive SMS communications — AI cannot verify this; compliance must be managed at the CRM level.
 - AI cannot tailor messages to individual medical history or preferences.
+
+---
 
 **Output:**
 1. Hi [Name], your eye check is on [Date] at [Time]. Rest screens for 20 mins/hr to ease eye strain. Confirm: [Link]  
@@ -56,3 +62,5 @@ Character Count: 134
 
 5. Hi [Name], your new patient appointment is [Date] at [Time]. Arrive 10 mins early for paperwork. Confirm: [Link]  
 Character Count: 134
+
+---
