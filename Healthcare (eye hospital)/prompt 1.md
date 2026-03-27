@@ -37,7 +37,12 @@ Monthly social media planning and content creation across Instagram and Facebook
 Marketing staff spend significant time each week manually writing individual posts from scratch, leading to inconsistent output and burnout during campaign periods.
 
 **Automation Potential:**  
-High, This prompt can be re-run monthly with simple swap of featured services and seasonal theme (eg- Glaucoma awarness, Cataract, Children vision week). Reducing content planning time from several hours to 30-40 minutes.
+High, This prompt can be re-run monthly with simple swap of featured services and seasonal theme (eg- Glaucoma awarness, Cataract, Children vision week). Reducing content planning time from several hours to 30-40 minute as Traditional Process requires:
+-Brainstorming 12 post topics and aligning them to content pillars(30–45 min)
+-Writing copy for 12 posts (hook, body, CTA per post) (2–3 hours)
+-Researching hashtags for each post (30 min)
+-Writing visual briefs for the design team (30 min)
+-Formatting everything into a structured calendar (30 min)
 
 **Risks & Limitations:**  
 -Clinical Inaccuracy: AI may hallucinate medical advice or oversimplify complex eye conditions, leading to potential patient misinformation.
