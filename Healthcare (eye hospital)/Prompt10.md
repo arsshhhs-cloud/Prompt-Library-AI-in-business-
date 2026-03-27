@@ -1,6 +1,6 @@
 ## Prompt 10: Post-Consultation Patient Follow-Up Message Generator
 - Status: tested✅
-- 
+  
 ---
 
 **📌Prompt text:**
