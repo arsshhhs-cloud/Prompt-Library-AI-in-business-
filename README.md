@@ -56,10 +56,10 @@ All prompt versions are saved in this repository. See individual prompt files fo
 
 ### 📈 Prompt Evaluation criteria:
 
- **Relevance** 
- **Accuracy** 
- **Engagement** 
- **Clarity**
- **Actionability** 
+ **Relevance,**
+ **Accuracy,** 
+ **Engagement,** 
+ **Clarity,**
+ **Actionability,** 
 
 ---
