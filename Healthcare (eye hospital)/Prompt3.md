@@ -35,17 +35,17 @@ Formatting: Use proper H1, H2, and H3 nested tags.
 ---
 
 **Intended Workflow**
-Ongoing SEO content production for the hospital's website blog to drive search traffic.
+- Ongoing SEO content production for the hospital's website blog to drive search traffic.
 
 **Problem Being Solved**
-Producing regular, keyword-optimised health content requires specialist writing skills that most hospital marketing teams lack in-house, resulting in infrequent publishing and weak search rankings.
+- Producing regular, keyword-optimised health content requires specialist writing skills that most hospital marketing teams lack in-house, resulting in infrequent publishing and weak search rankings.
 
 **Automation Potential**
-High. A prompt template like this can be reused for different target keywords each month (e.g. "LASIK surgery recovery", "children's eye test age"), building a consistent content with minimal effort.
+- High. A prompt template like this can be reused for different target keywords each month (e.g. "LASIK surgery recovery", "children's eye test age"), building a consistent content with minimal effort.
 
 **Risk and Limitation**
--Medical accuracy is a critical risk — AI may generate plausible but clinically incorrect health advice. All articles must be reviewed and approved by an ophthalmologist or optometrist before publishing.
--Keyword research must still be done by a human using tools like Google Search Console or SEMrush, as the AI cannot access live search data.
+- Medical accuracy is a critical risk — AI may generate plausible but clinically incorrect health advice. All articles must be reviewed and approved by an ophthalmologist or optometrist before publishing.
+- Keyword research must still be done by a human using tools like Google Search Console or SEMrush, as the AI cannot access live search data.
 
 ---
 
