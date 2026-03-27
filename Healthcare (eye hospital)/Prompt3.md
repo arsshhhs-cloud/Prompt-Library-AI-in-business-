@@ -1,8 +1,8 @@
 ## Prompt 3: SEO Blog Article for Eye Health Awareness
-
+- Status: Tested✅
 ---
 
-**Prompt Text:**  
+**📌Prompt Text:**  
 Role: Specialist Healthcare SEO Content Writer (Expert Level).
 Objective: Write a high-conversion, 600-word blog post for an eye-specialty hospital.
 Primary Keyword: "signs you need an eye test" (Target 3–4x naturally).
