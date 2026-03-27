@@ -1,5 +1,7 @@
 ## Prompt 3: SEO Blog Article for Eye Health Awareness
 
+---
+
 **Prompt Text:**  
 Role: Specialist Healthcare SEO Content Writer (Expert Level).
 Objective: Write a high-conversion, 600-word blog post for an eye-specialty hospital.
@@ -30,6 +32,8 @@ Tone: Authoritative yet warm; avoid "medical clinical" coldness.
 
 Formatting: Use proper H1, H2, and H3 nested tags.
 
+---
+
 **Intended Workflow**
 Ongoing SEO content production for the hospital's website blog to drive search traffic.
 
@@ -42,6 +46,8 @@ High. A prompt template like this can be reused for different target keywords ea
 **Risk and Limitation**
 -Medical accuracy is a critical risk — AI may generate plausible but clinically incorrect health advice. All articles must be reviewed and approved by an ophthalmologist or optometrist before publishing.
 -Keyword research must still be done by a human using tools like Google Search Console or SEMrush, as the AI cannot access live search data.
+
+---
 
 **Output**
 ```markdown
@@ -96,3 +102,5 @@ For those interested in vision correction, explore our [LASIK Services] which ca
 Your vision is precious. If you recognize any of these signs you need an eye test, book a bulk-billed or specialist exam today. Early action can save your sight and bring back clarity to your world.
 ```
 By staying attentive to your eyes and acting on these signs, you’re taking a vital step toward preserving one of your most precious senses. Remember, clear vision is not just about seeing well—it’s about seeing life fully.
+
+---
