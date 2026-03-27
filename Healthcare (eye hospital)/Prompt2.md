@@ -1,5 +1,7 @@
 ## Prompt 2: Patient retention email/campaign
 
+---
+
 **Prompt Text:**  
 Role: Senior Healthcare Retention Strategist (10+ years exp).
 Objective: Write a 3-part re-engagement email sequence for a specialty eye hospital targeting patients inactive for 6+ months.
@@ -24,6 +26,8 @@ Structure: 150-200 words. Include: Subject Line, Preview Text, Greeting, Body, C
 
 Formatting: Present as three distinct sections. Use bolding for subject lines and CTA buttons.
 
+---
+
 **Intended Workflow/Task:**  
 Automated patient re-engagement and appointment booking campaigns via the hospital's CRM/email platform.
 Problem Being Solved: lapsed patients represents huge revenue and health gap. Manually identifying and outreaching each patient is a time taking task.
@@ -35,8 +39,10 @@ Very High. Once integrated with CRM data triggers (e.g. "no appointment in 3 mon
 Very High. Once integrated with CRM data triggers (e.g. "no appointment in 3 months"), this sequence can run fully automatically with minimal human intervention beyond initial setup and compliance review.
 
 **Risks & Limitations:**  
--Legal and Regulatory Compliance: Automated outreach must strictly adhere to the Privacy Act 1988 and the Spam Act 2003; AI cannot inherently ensure the inclusion of mandatory opt-out mechanisms or verify the secure handling of sensitive health information.
--Data Asynchronicity: Because the AI lacks real-time integration with a CRM, it cannot account for a patient's most recent clinical outcomes or history, increasing the risk of sending insensitive or redundant appointment triggers.
+- Legal and Regulatory Compliance: Automated outreach must strictly adhere to the Privacy Act 1988 and the Spam Act 2003; AI cannot inherently ensure the inclusion of mandatory opt-out mechanisms or verify the secure handling of sensitive health information.
+- Data Asynchronicity: Because the AI lacks real-time integration with a CRM, it cannot account for a patient's most recent clinical outcomes or history, increasing the risk of sending insensitive or redundant appointment triggers.
+
+---
 
 **Output**
 **Email 1 (Day 1): Awareness/Wellness**
@@ -99,3 +105,5 @@ Let us help you keep your eyes healthy and comfortable—because your vision mat
 
 You may unsubscribe anytime if you wish to stop receiving these messages.  
 [Unsubscribe]
+
+---
