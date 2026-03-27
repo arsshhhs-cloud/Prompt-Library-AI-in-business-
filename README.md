@@ -52,7 +52,14 @@ Each prompt entry follows the same structure:
 All prompt versions are saved in this repository. See individual prompt files for version histories.  
 **Commit history = version log** 
 
-| Prompt | Versions | Key improvement |
-|--------|----------|-----------------|
-| P01 | version1 → version2| Added RACE role + word limit |
-| P010 | version1 → version3 | added role after v1 + constraint after v2 |
+---
+
+### 📈 Prompt Evaluation criteria:
+
+ **Relevance** 
+ **Accuracy** 
+ **Engagement** 
+ **Clarity**
+ **Actionability** 
+
+---
