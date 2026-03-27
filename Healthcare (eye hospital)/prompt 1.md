@@ -1,5 +1,7 @@
 ## Prompt 1: Content calender for eye hospital
 
+-----------------------------------------------------------------------------------------------------------------------------------
+
 **Prompt Text:**  
 Role: You are a Senior Content Strategist at an Eye Specialty Hospital specializing in refractive and cataract surgery.
 
@@ -29,6 +31,10 @@ Scheduling: Best time to post for AEST/Local healthcare audiences.
 Metadata: 5-7 niche hashtags and a brief "Visual Brief" for the design team.
 
 Requirement: Ensure all medical claims are framed as "Consult a specialist" to maintain clinical safety.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
 
 **Intended Workflow/Task:**  
 Monthly social media planning and content creation across Instagram and Facebook.
