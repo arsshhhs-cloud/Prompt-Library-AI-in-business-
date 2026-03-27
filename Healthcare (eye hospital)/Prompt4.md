@@ -1,5 +1,7 @@
 ## Prompt 4: Monthly Marketing Analytics Summary Report
 
+---
+
 **Prompt Text:**  
 Role: Senior Performance Marketing Analyst (Healthcare Sector).
 Task: Synthesize raw monthly data into a high-impact Executive Summary for a Hospital Marketing Manager.
@@ -57,6 +59,13 @@ Rule: Translate technical jargon (e.g., instead of "CPA," use "Cost per new pati
 2026-03-10	Instagram Ads	Eye Checkup Promo	17800	620	300	58	40	34	9	9000
 2026-03-10	Organic Search	SEO General	10000	440	0	40	24	21	8	12000 </DATA>
 
+---
+
+Placeholders to fill: 
+[Paste raw data here]
+
+---
+
 **Intended Workflow**
 Monthly reporting and performance review for the hospital's digital marketing activities, presented to senior management.
 
@@ -69,6 +78,8 @@ High. Once data is exported from each platform, this prompt can produce a polish
 **Risks and Limitations**
 -The prompt depends entirely on the quality and accuracy of data the user pastes in — garbage in, garbage out.
 -AI may misinterpret trends if context (e.g. a public holiday reducing traffic) is not provided explicitly.
+
+---
 
 **output**
 ## Bottom Line  
@@ -93,3 +104,5 @@ Performance showed solid growth in patient acquisition driven primarily by Paid 
 2. **Enhance Facebook awareness content:** Refresh Cataract campaign messaging to sustain engagement and improve appointment booking rates, especially targeting older patient segments.
 
 This focused approach balances paid and organic efforts to maximize patient acquisition while optimizing marketing spend efficiency.
+
+---
