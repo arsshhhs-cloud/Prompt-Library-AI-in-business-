@@ -64,8 +64,6 @@ When you’re ready, we’d be happy to welcome you back for a friendly visit fo
 If you prefer not to receive these emails, you can unsubscribe anytime.  
 [Unsubscribe]
 
----
-
 **Email 2 (Day 5): Education**
 
 **Subject Line:** Understanding Your Eyes as You Age  
@@ -84,8 +82,6 @@ If you have questions about how your eyes are doing or want to learn more about 
 
 You can unsubscribe at any time if you prefer not to receive future emails.  
 [Unsubscribe]
-
----
 
 **Email 3 (Day 12): Conversion**
 
