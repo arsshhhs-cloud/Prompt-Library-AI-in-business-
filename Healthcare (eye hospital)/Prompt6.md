@@ -4,7 +4,28 @@
 
 **prompt text:**
 
-You are a senior HR specialist. Based on the following role details provided in brackets, write a professional job description for a corporate organisation. Use bias-free language throughout and avoid gendered or exclusionary phrasing. Tone should be professional yet engaging to attract mid-to-senior level candidates. [Role-Business Analyst] [Key abilities-prediction analysis, business performance dashboard, process optimization] [Experience-10+ years]
+Role: Executive Recruitment & DE&I Specialist.
+Objective: Draft a high-impact, bias-free Job Description for a [Role-business analyst] with [Experience- 10+ years] years of experience.
+
+Strategic Focus & Constraints:
+
+Target Audience: Mid-to-senior level professionals seeking "Impact," "Strategy," and "Autonomy."
+
+Inclusive Language: Use gender-neutral phrasing (e.g., "The successful candidate"). Strictly avoid "masculine-coded" competitive terms like "rockstar," "ninja," or "aggressive."
+
+Voice: Use "Active Voice" (e.g., "You will lead...") to create an immediate connection with the reader.
+
+Output Structure:
+
+The "Impact" Overview: A 3-sentence company narrative focused on stability, innovation, and growth.
+
+Role Mission (Max 100 words): Define the purpose of the role, centering on [Key abilities-prediction analysis, business performance dashboard, process optimization]. Why does this role exist?
+
+Key Strategic Pillars (6–8 Bullets): Focus on outcomes and high-level responsibilities.
+
+The Professional Profile (5–6 Bullets): Outline the required tenure, technical skills, and leadership qualities.
+
+Culture & Equity Statement: A warm closing on work-life balance, diversity commitment, and clear application instructions.
 
 ---
 
