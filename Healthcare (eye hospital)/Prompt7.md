@@ -5,7 +5,36 @@
 
 **📌Prompt text:**
 
-You are a digital marketing specialist at an eye-specialty hospital. Draft a professional outreach email to a health and wellness micro-influencer or community organisation to propose a content partnership or awareness campaign collaboration. keep tone professional and welcoming. personalise the email according to the individual. [RECIPIENT NAME- David Laid] [THEIR NICHE/COMMUNITY FOCUS- Fitness influencer] [COLLABORATION TYPE-Instagram post/reel] [CAMPAIGN GOAL-promote eye health services] [OFFER OR INCENTIVE- free eye check-up for 10 days].
+Role: Senior Healthcare Partnerships Manager.
+Task: Draft a high-conversion partnership proposal for [David Laid].
+
+Contextual Alignment:
+
+The Hook: Connect David's focus on [Fitness/Bodybuilding] to the importance of vision (e.g., focus during training, ocular health in high-intensity environments).
+
+The Campaign: An Instagram-first awareness series promoting [Eye Health Services].
+
+The Incentive: A high-value "Community Gift"—[10 Days of Free Eye Check-ups] for his followers.
+
+Structural Requirements:
+
+Subject Line: High-curiosity, partnership-focused (e.g., "Vision x Peak Performance").
+
+The "Why You": A 2-sentence personalized compliment on his specific content style.
+
+The Value Proposition: Clearly explain how this partnership benefits his audience's health.
+
+The Ask: Specific details on the [Reel/Post] collaboration.
+
+CTA: A low-friction "next step" (e.g., a 5-minute introductory call).
+
+Constraints:
+
+Tone: Professional, welcoming, and "Creator-Friendly" (no corporate jargon).
+
+Length: Under 200 words.
+
+Safety: Ensure the "Free Check-up" is framed as a limited-time community wellness gift.
 
 ---
 
@@ -32,24 +61,22 @@ You are a digital marketing specialist at an eye-specialty hospital. Draft a pro
 
 **Output:**
 
-Subject: Collaboration Opportunity to Promote Eye Health with [Hospital Name]
+Subject: Vision x Peak Performance: A Unique Partnership Opportunity for David Laid
 
-Dear David,
+Hi David,
 
-I hope this message finds you well. My name is [Your Name], and I’m reaching out on behalf of [Hospital Name], a leading eye-specialty hospital dedicated to advancing eye health and wellness.
+Your dedication to showcasing intense, focused training and precise form really sets you apart in the fitness space. Your ability to inspire discipline and attention to detail perfectly aligns with the importance of sharp vision during high-intensity workouts.
 
-As a respected fitness influencer with a strong commitment to health and wellbeing, your impactful community resonates perfectly with our mission to raise awareness about the importance of eye care as part of a holistic health lifestyle.
+We’d love to partner with you on an Instagram-first awareness series promoting eye health—highlighting how maintaining strong ocular health can boost training focus and overall performance. As a special community gift, your followers would receive an exclusive, limited-time offer of 10 days of free eye check-ups to support their vision and fitness goals.
 
-We would love to collaborate with you on an Instagram post or reel to promote our eye health services, highlighting how vision care supports overall fitness and daily performance. To support this partnership, we are pleased to offer you a complimentary comprehensive eye check-up at our facility, valid for the next 10 days.
+Would you be open to collaborating on a Reel or Post that ties your training insights with this essential health message? We believe this will add meaningful value to your audience’s wellness journey.
 
-We believe your authentic voice and influence would be invaluable in educating your audience about preventive eye care and encouraging regular eye exams.
+If this sounds interesting, let’s jump on a quick 5-minute call to explore the details.
 
-Please let me know if you’re interested, and we can discuss the next steps in more detail. Looking forward to the possibility of working together to promote healthy vision and wellness.
+Looking forward to connecting!
 
-Warm regards,  
-[Your Full Name]  
-[Your Position]  
-[Hospital Name]  
-[Contact Information]
+Best,  
+[Your Name]  
+Senior Healthcare Partnerships Manager
 
 ---
