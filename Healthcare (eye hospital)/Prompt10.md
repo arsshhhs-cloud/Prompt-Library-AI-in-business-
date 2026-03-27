@@ -27,6 +27,8 @@ Constraints:
 -Do not add any medical information beyond what is provided in the data inputs.
 -Ensure all content is verifiable from the provided data.
 
+sample data:
+
 <DATA> Mrs. Evelyn Harper
 
 CONSULTATION OUTCOME: Initial screening showed slightly elevated intraocular pressure. While not a definitive diagnosis of glaucoma, you are considered a "glaucoma suspect" requiring regular monitoring to protect your optic nerve.
