@@ -1,8 +1,9 @@
 ## Prompt 10: Post-Consultation Patient Follow-Up Message Generator
-
+- Status: tested✅
+- 
 ---
 
-**Prompt text:**
+**📌Prompt text:**
 
 Role: Patient Experience & Clinical Communications Specialist.
 Task: Generate a post-consultation follow-up based on the specific [Data Inputs] provided.
