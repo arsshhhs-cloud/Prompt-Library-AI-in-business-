@@ -1,8 +1,9 @@
 ## Prompt 4: Monthly Marketing Analytics Summary Report
+- Status- Tested✅
 
 ---
 
-**Prompt Text:**  
+**📌Prompt Text:**  
 Role: Senior Performance Marketing Analyst (Healthcare Sector).
 Task: Synthesize raw monthly data into a high-impact Executive Summary for a Hospital Marketing Manager.
 
