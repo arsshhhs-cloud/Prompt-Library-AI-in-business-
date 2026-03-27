@@ -4,73 +4,55 @@
 
 **Prompt text:**
 
-Give me some interview questions for AI engineer job role.
+Act as a Senior AI Hiring Manager at a top-tier company, generate a set of questions for the job role given in the brackets [Ai engineer]. Identify 3 most critical competencies for this role, Then generate 2 behavioural interview questions per competency. Suggest one question to assesses cultural fit for a small, collaborative team.
 
 ---
 
 **Intended Workflow:**
-Preparing structured interview question sets for hiring managers
+* Preparing structured interview question sets for hiring managers
 
 **Problem Being Solved:** 
-*Without an HR department, SME managers often conduct unstructured interviews, leading to inconsistent evaluation and poor hiring decisions.
+* Without an HR department, SME managers often conduct unstructured interviews, leading to inconsistent evaluation and poor hiring decisions.
 
 **Automation Potential:**
-*High — produces a complete, structured interview guide in minutes. Can be reused and adapted across roles, building an internal interview bank over time.
+* High — produces a complete, structured interview guide in minutes. Can be reused and adapted across roles, building an internal interview bank over time.
 
 **Risks and Limitations:**
-*Chain-of-thought reasoning can occasionally produce plausible-sounding but flawed logic. Questions must be reviewed to ensure they comply with anti-discrimination legislation (e.g., avoiding questions about age, family status, or nationality under the Fair Work Act). The model has no knowledge of the specific team dynamics without additional context. 
+* Chain-of-thought reasoning can occasionally produce plausible-sounding but flawed logic. Questions must be reviewed to ensure they comply with anti-discrimination legislation (e.g., avoiding questions about age, family status, or nationality under the Fair Work Act). The model has no knowledge of the specific team dynamics without additional context. 
 
 ---
 
 **Output**
 
-Certainly! Here are some interview questions for an AI Engineer role, categorized by topics:
+Certainly! For the role of [AI Engineer], here are the details:
 
-### Technical Questions
-1. **Machine Learning Fundamentals**
-   - Explain the difference between supervised, unsupervised, and reinforcement learning.
-   - What is overfitting and how can you prevent it?
-   - How do you handle imbalanced datasets?
-   - Describe the bias-variance tradeoff.
 
-2. **Deep Learning**
-   - What are the differences between CNNs, RNNs, and Transformers?
-   - How does backpropagation work?
-   - What are some common activation functions and when would you use them?
-   - Explain the concept of attention mechanisms in neural networks.
+### 3 Most Critical Competencies for an AI Engineer:
+1. **Technical Expertise in AI/ML Algorithms & Tools**  
+2. **Problem-Solving & Analytical Thinking**  
+3. **Collaboration & Communication**
 
-3. **Algorithms and Data Structures**
-   - How would you optimize the training process for a large dataset?
-   - Describe how gradient descent works and the differences between batch, stochastic, and mini-batch gradient descent.
-   - Explain the role of loss functions in training models.
 
-4. **Programming and Tools**
-   - What programming languages and libraries do you use for AI development?
-   - How do you manage version control and experiment tracking in your projects?
-   - Describe your experience with cloud platforms like AWS, GCP, or Azure for deploying AI models.
+### Interview Questions:
 
-5. **Data Processing and Feature Engineering**
-   - How do you clean and preprocess data for machine learning models?
-   - What techniques do you use for feature selection and dimensionality reduction?
-   - Explain the importance of feature scaling.
+#### Competency 1: Technical Expertise in AI/ML Algorithms & Tools
+1. Can you describe a complex AI or machine learning model you designed and implemented? What tools and frameworks did you use, and what challenges did you face?  
+2. How do you approach selecting the right algorithm or model for a given problem? Can you provide an example where your choice significantly impacted the project outcome?
 
-6. **Model Evaluation and Deployment**
-   - How do you evaluate the performance of a classification model?
-   - What metrics would you use for regression problems?
-   - Describe the process of deploying an AI model to production.
+#### Competency 2: Problem-Solving & Analytical Thinking
+1. Tell me about a time when you had to debug or optimize an AI model that wasn’t performing as expected. What steps did you take to identify and resolve the issue?  
+2. Describe a situation where you had to analyze a large, complex dataset to extract meaningful insights. How did your analysis influence the direction of the project?
 
-### Behavioral and Situational Questions
-1. Describe a challenging AI project you worked on and how you overcame the obstacles.
-2. How do you stay current with the latest developments in AI and machine learning?
-3. Explain a situation where you had to explain complex AI concepts to a non-technical stakeholder.
-4. How do you prioritize tasks when working on multiple AI projects simultaneously?
+#### Competency 3: Collaboration & Communication
+1. AI projects often require input from cross-functional teams. Can you share an experience where you successfully collaborated with data scientists, engineers, or product managers to deliver a solution?  
+2. How do you explain complex AI concepts or technical findings to non-technical stakeholders? Can you give an example where this skill was crucial?
 
-### Advanced/Research-Oriented Questions
-1. Discuss recent advancements in natural language processing.
-2. What are generative adversarial networks (GANs), and where would you apply them?
-3. How do you ensure the ethical use of AI in your projects?
-4. What are some limitations of current AI models, and how would you address them?
 
-Would you like sample answers or questions tailored to a specific AI domain like computer vision, NLP, or reinforcement learning?
+### Cultural Fit Question for a Small, Collaborative Team:
+- Our team thrives on open communication and mutual support. Can you describe a time when you contributed to building a positive team environment or helped a teammate overcome a challenge?
+
+
+Let me know if you'd like me to tailor the questions further or add technical test ideas!
+
 
 ---
