@@ -92,3 +92,17 @@ Warm regards,
 [Clinic Name] Patient Experience Team
 
 ---
+
+### 📈 Prompt Evaluation: Prompt 10 (Patient Follow-Up Generator)
+
+| Criteria | Description |
+|----------|------------|
+| **Relevance** | **High**; specifically designed for healthcare firms and eye-specialty clinical workflows. |
+| **Accuracy** | **Strong**; uses "As discussed in your appointment" to anchor advice in the clinical record and prevent hallucinations. |
+| **Engagement** | **N/A**; focused on clinical adherence and patient health literacy rather than social media interaction. |
+| **Clarity** | **Excellent**; enforces a Grade 6 reading level to ensure complex outcomes (e.g., glaucoma suspect) are easy to understand. |
+| **Actionability** | **High**; structured with clear logic for both SMS and Email formats, making it ready for automated integration. |
+
+**Overall Rating: 9/10 (Excellent – High Automation Potential)**
+
+---
