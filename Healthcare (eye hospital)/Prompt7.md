@@ -5,7 +5,12 @@
 
 **📌Prompt text:**
 
-create a email for influencer or community outreach to promote our eye-speciality hospital services.
+You are a digital marketing specialist at an eye-specialty hospital. Draft a professional outreach email to a health and wellness micro-influencer or community organisation to propose a content partnership or awareness campaign collaboration. keep tone professional and welcoming. personalise the email according to the individual. [RECIPIENT NAME- David Laid] [THEIR NICHE/COMMUNITY FOCUS- Fitness influencer] [COLLABORATION TYPE-Instagram post/reel] [CAMPAIGN GOAL-promote eye health services] [OFFER OR INCENTIVE- free eye check-up for 10 days].
+
+---
+
+**Input from human**
+- [RECIPIENT NAME] [COLLABORATION TYPE] [CAMPAIGN GOAL] [OFFER OR INCENTIVE].
 
 ---
 
@@ -27,33 +32,24 @@ create a email for influencer or community outreach to promote our eye-specialit
 
 **Output:**
 
-Certainly! Here’s a professional and friendly influencer outreach email template for promoting your eye-speciality hospital services:
+Subject: Collaboration Opportunity to Promote Eye Health with [Hospital Name]
 
----
+Dear David,
 
-**Subject:** Collaboration Opportunity: Promote Expert Eye Care with [Your Hospital Name]
+I hope this message finds you well. My name is [Your Name], and I’m reaching out on behalf of [Hospital Name], a leading eye-specialty hospital dedicated to advancing eye health and wellness.
 
-Hi [Influencer’s Name],
+As a respected fitness influencer with a strong commitment to health and wellbeing, your impactful community resonates perfectly with our mission to raise awareness about the importance of eye care as part of a holistic health lifestyle.
 
-I hope this message finds you well! My name is [Your Name], and I’m reaching out on behalf of [Your Hospital Name], a leading eye-speciality hospital dedicated to providing advanced and compassionate eye care.
+We would love to collaborate with you on an Instagram post or reel to promote our eye health services, highlighting how vision care supports overall fitness and daily performance. To support this partnership, we are pleased to offer you a complimentary comprehensive eye check-up at our facility, valid for the next 10 days.
 
-We’ve been following your amazing work on [platform, e.g., Instagram/YouTube], and we believe your voice would be a perfect fit to help us raise awareness about the importance of eye health and the innovative services we offer.
+We believe your authentic voice and influence would be invaluable in educating your audience about preventive eye care and encouraging regular eye exams.
 
-At [Your Hospital Name], we specialize in [mention key services, e.g., cataract surgery, LASIK, glaucoma treatment, pediatric eye care], using state-of-the-art technology and expert care teams. We would love to explore a collaboration where you can share your experience and insights with your audience, empowering them to take better care of their vision.
+Please let me know if you’re interested, and we can discuss the next steps in more detail. Looking forward to the possibility of working together to promote healthy vision and wellness.
 
-If this sounds interesting, we’d be happy to discuss partnership details, including potential content ideas, compensation, and any questions you may have.
-
-Looking forward to hearing from you!
-
-Best regards,  
+Warm regards,  
 [Your Full Name]  
 [Your Position]  
-[Your Hospital Name]  
-[Contact Information]  
-[Website URL]  
-
----
-
-Would you like me to customize it further based on the influencer’s niche or platform?
+[Hospital Name]  
+[Contact Information]
 
 ---
