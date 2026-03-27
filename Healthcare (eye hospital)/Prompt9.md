@@ -1,8 +1,9 @@
 ## Prompt 9: Interview Question Builder
+- Status- Tested✅
 
 ---
 
-**Prompt text:**
+**📌Prompt text:**
 
 Role: Lead AI Talent Strategist.
 Task: Design a high-signal Interview Kit for a Senior AI Engineer.
