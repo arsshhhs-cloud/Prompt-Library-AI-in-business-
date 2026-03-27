@@ -1,8 +1,9 @@
 ## Prompt 1: Content calender for eye hospital
+-Status- Tested✅
 
------------------------------------------------------------------------------------------------------------------------------------
+---
 
-**Prompt Text:**  
+**📌Prompt Text:**  
 Role: You are a Senior Content Strategist at an Eye Specialty Hospital specializing in refractive and cataract surgery.
 
 Objective: Create a 4-week, 12-post content calendar (3 posts/week) for Instagram and Facebook.
@@ -32,9 +33,7 @@ Metadata: 5-7 niche hashtags and a brief "Visual Brief" for the design team.
 
 Requirement: Ensure all medical claims are framed as "Consult a specialist" to maintain clinical safety.
 
-
------------------------------------------------------------------------------------------------------------------------------------
-
+---
 
 **Intended Workflow/Task:**  
 Monthly social media planning and content creation across Instagram and Facebook.
@@ -53,6 +52,8 @@ High, This prompt can be re-run monthly with simple swap of featured services an
 **Risks & Limitations:**  
 - Clinical Inaccuracy: AI may hallucinate medical advice or oversimplify complex eye conditions, leading to potential patient misinformation.
 - Regulatory Non-Compliance: Content might inadvertently breach strict healthcare advertising codes (like AHPRA) regarding medical claims or testimonials.
+
+---
 
 **Output**
 
@@ -73,3 +74,4 @@ High, This prompt can be re-run monthly with simple swap of featured services an
 | Week 4, Fri    | Conversion: LASIK Limited-Time Offer (Static Image)         | **Hook:** Ready for life-changing vision? Limited LASIK offer!<br>**Body:** For a limited time, get exclusive pricing on LASIK surgery with our expert surgeons. Personalized care and advanced technology ensure the best results. Consult a specialist to determine if LASIK is right for you.<br>**CTA:** Book your free consultation today—spots filling fast! | 8:30 PM          | #LASIKOffer #VisionCorrection #EyeCareSpecialist #ClearVision #ConsultASpecialist #LaserEyeSurgery #LimitedTime<br>Visual Brief: Bold, clean promotional graphic with countdown timer, hospital logo, and call-to-action button style. |
 ```
 
+---
