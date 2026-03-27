@@ -1,9 +1,32 @@
-##Prompt 10: Post-Consultation Patient Follow-Up Message Generator
+## Prompt 10: Post-Consultation Patient Follow-Up Message Generator
 
 ---
 
 **Prompt text:**
-You are a patient communications coordinator at an eye-specialty hospital. Using the consultation details provided in the brackets below, generate a personalised post-consultation follow-up message to be sent to the patient via email or SMS within 24 hours of their appointment. Use warm and professional tone. Keep word range between 200-250. 
+
+Role: Patient Experience & Clinical Communications Specialist.
+Task: Generate a post-consultation follow-up based on the specific [Data Inputs] provided.
+
+Logic-Based Formatting:
+
+If [FORMAT: SMS]:
+Write a high-priority notification limited to 160 characters.
+Include gratitude, one key action, and a link to the full care plan.
+Use concise, clear language.
+If [FORMAT: Email]:
+Write a "Digital Care Summary" with a maximum of 250 words.
+Structure the email as follows:
+a. Key Takeaway: Translate [CONSULTATION OUTCOME] into Grade 6 reading level language (e.g., "early-stage cataracts" instead of "nuclear sclerosis").
+b. Action Checklist: Provide a bulleted list of [NEXT STEPS] using active verbs (e.g., "Collect," "Book," "Apply").
+c. Red Flag Safety Box: Highlight [WARNING SIGNS] under a bold header titled "When to call us immediately."
+d. Support: Include clinic contact details and a warm sign-off.
+
+Constraints:
+
+-Do not provide medical guarantees. Use the phrase "As discussed in your appointment..." to anchor advice in the clinical record.
+-Do not add any medical information beyond what is provided in the data inputs.
+-Ensure all content is verifiable from the provided data.
+
 <DATA> Mrs. Evelyn Harper
 
 CONSULTATION OUTCOME: Initial screening showed slightly elevated intraocular pressure. While not a definitive diagnosis of glaucoma, you are considered a "glaucoma suspect" requiring regular monitoring to protect your optic nerve.
@@ -12,13 +35,13 @@ NEXT STEPS: 1. Collect your prescription for Xalatan drops from the hospital pha
 
 WARNING SIGNS: Sudden severe eye pain, blurred vision with halos around lights, or nausea.
 
-FORMAT: Email
+FORMAT: Email/Sms
 </DATA>
 
 ---
 
 **Input:**
-* Put patients consultation report in data section
+* Put patients consultation report data between <DATA> </DATA>. 
 
 ---
 
@@ -40,24 +63,30 @@ FORMAT: Email
 
 **Output**
 
-Subject: Follow-Up on Your Recent Eye Consultation
+Subject: Your Digital Care Summary – Follow-Up from Your Eye Screening
 
 Dear Mrs. Harper,
 
-I hope this message finds you well. Thank you for visiting us recently for your eye consultation. We wanted to follow up and provide a summary of your appointment to ensure you have all the necessary information moving forward.
+**Key Takeaway:**  
+As discussed in your appointment, your eye pressure is a bit high, which means you might be at risk for glaucoma. This isn’t a diagnosis but means we need to keep a close eye on your eye health to protect your vision.
 
-During your initial screening, we noted that your intraocular pressure is slightly elevated. While this does not confirm a diagnosis of glaucoma, it does place you in the category of a "glaucoma suspect." This means it is important to monitor your eye health regularly to safeguard your optic nerve and maintain your vision.
+**Action Checklist:**  
+- Collect your prescription for Xalatan eye drops from the hospital pharmacy.  
+- Book a visual field test for next month.  
+- Apply one drop in each eye nightly as directed.
 
-As discussed, please collect your prescription for Xalatan eye drops from our hospital pharmacy at your earliest convenience. It is essential to begin using one drop in each eye every night as prescribed. Additionally, we recommend scheduling a visual field test next month to further assess your eye health and detect any changes early.
+**When to call us immediately:**  
+- Sudden severe eye pain  
+- Blurred vision with halos around lights  
+- Feeling nauseous
 
-Please be vigilant for any warning signs such as sudden severe eye pain, blurred vision accompanied by halos around lights, or nausea. Should you experience any of these symptoms, seek immediate medical attention.
+If you notice any of these symptoms, please contact us right away.
 
-If you have any questions or need assistance with appointments or medication, please do not hesitate to contact us. Your eye health is our priority, and we are here to support you every step of the way.
+For questions or to book appointments, call us at [Clinic Phone Number] or email [Clinic Email Address].
+
+Thank you for trusting us with your care. We look forward to supporting your eye health.
 
 Warm regards,  
-[Your Name]  
-Patient Communications Coordinator  
-[Eye Specialty Hospital Name]  
-[Contact Information]
+[Clinic Name] Patient Experience Team
 
 ---
