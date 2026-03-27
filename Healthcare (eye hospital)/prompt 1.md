@@ -75,3 +75,17 @@ High, This prompt can be re-run monthly with simple swap of featured services an
 ```
 
 ---
+
+### 📈 Prompt Evaluation: Prompt 1 (Content Calendar for Eye Hospital)
+
+| Criteria | Description |
+|----------|------------|
+| **Relevance** | **High**; specifically targets refractive and cataract surgery sectors within ophthalmology. |
+| **Accuracy** | **Strong**; includes mandatory clinical safety disclaimers ("Consult a specialist") to mitigate medical misinformation risks. |
+| **Engagement** | **High**; utilizes a three-pillar strategy (Education, Social Proof, Conversion) to balance value and promotion. |
+| **Clarity** | **Excellent**; output includes specific AEST scheduling, niche hashtags, and visual briefs for designers. |
+| **Actionability** | **High**; reduces content planning time from several hours to approximately 30-40 minutes. |
+
+**Overall Rating: 8.5/10 (Excellent Efficiency & Risk Management)**
+
+---
