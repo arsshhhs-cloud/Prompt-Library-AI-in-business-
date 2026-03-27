@@ -1,8 +1,9 @@
 ## Prompt 2: Patient retention email/campaign
+- Status- Tested✅
 
 ---
 
-**Prompt Text:**  
+**📌Prompt Text:**  
 Role: Senior Healthcare Retention Strategist (10+ years exp).
 Objective: Write a 3-part re-engagement email sequence for a specialty eye hospital targeting patients inactive for 6+ months.
 
