@@ -4,9 +4,8 @@
 
 **prompt text:**
 
-evaluate the CV against the job description.
-
-[Job description- **Job Description — Office & Accounts Administrator**
+<DATA>
+**Job Description — Office & Accounts Administrator**
 *Bright Build Co. | Melbourne, VIC | Full-time*
 
 Bright Build Co. is a growing SME in the residential construction space, with a team of 15 staff managing projects across Melbourne's inner and outer suburbs.
@@ -25,11 +24,15 @@ Bright Build Co. is a growing SME in the residential construction space, with a 
 - Ability to work independently in a fast-paced small business environment
 - Certificate III or IV in Business Administration (desirable, not essential)
 
-**Workplace:** Office-based in Fitzroy North, with some flexibility after probation period.]
+**Workplace:** Office-based in Fitzroy North, with some flexibility after probation period.
+
+
 
 And here's a sample CV you can pair it with to test the prompt:
 
-[**Candidate: Sarah Nguyen**
+
+
+**Candidate: Sarah Nguyen**
 
 *Summary:* Organised and detail-oriented administrator with 3 years of experience in a busy SME environment. Comfortable managing competing priorities and working with minimal supervision.
 
@@ -39,7 +42,10 @@ And here's a sample CV you can pair it with to test the prompt:
 
 *Education:* Certificate IV in Business Administration (TAFE Victoria, 2021)
 
-*Skills:* Xero, Microsoft Office Suite, strong written communication, payroll support]
+*Skills:* Xero, Microsoft Office Suite, strong written communication, payroll support
+</DATA>
+
+evaluate the CV against the job description.  Keep the structure of output in clear points and within 300 words. If candidate has qualifications and skills required for role-shortlist. If candidate lacks qualifications and experience in the required field-Not shortlisted. If candidate is a strong match- recommend:shortlisted, If candidate is weak match- recommend:Do not shortlist.
 
 
 ---
@@ -67,27 +73,26 @@ AI may reflect biases present in training data, potentially disadvantaging candi
 
 **Output:**
 
-Sarah Nguyen’s CV aligns well with the Office & Accounts Administrator role at Bright Build Co. Here’s an evaluation against the key criteria from the job description:
+**Evaluation of Sarah Nguyen’s CV Against Office & Accounts Administrator Role**
 
-**Relevant Experience:**
-- Sarah has 3 years of office administration experience in SME settings, exceeding the minimum 2 years required.
-- Her current role at Apex Plumbing Solutions involves managing invoicing in Xero, coordinating job scheduling, and handling supplier queries, which closely matches the key responsibilities listed.
-- Experience with payroll support and data entry complements the HR admin and record-keeping tasks mentioned.
+**Match with Key Responsibilities:**  
+- Has relevant experience managing invoicing using Xero, aligning well with accounts payable/receivable and invoice reconciliation duties.  
+- Coordinated job scheduling and handled supplier queries, matching scheduling coordination and supplier/subcontractor communication requirements.  
+- Experience in administration roles suggests capability in supporting HR admin tasks and employee record maintenance.  
+- No explicit mention of preparing financial summaries/reports, but invoicing and Xero experience implies relevant financial familiarity.
 
-**Qualifications:**
-- She holds a Certificate IV in Business Administration, which is the desirable qualification stated (Certificate III or IV).
-  
-**Skills:**
-- Proficient in Xero and Microsoft Office Suite, meeting the software requirements.
-- Strong written communication skills are noted, matching the requirement.
-- Demonstrates ability to work independently in a fast-paced SME environment, as per her summary.
+**Qualifications & Experience:**  
+- Over 3 years of experience in office administration roles within SMEs, exceeding the minimum 2-year requirement.  
+- Holds Certificate IV in Business Administration, which is desirable and meets the qualification preference.  
+- Proficient in Xero and Microsoft Office Suite, directly matching software proficiency needs.  
+- Strong written communication skills demonstrated through roles requiring coordination and front-of-house duties.
 
-**Other considerations:**
-- Location or workplace flexibility is not mentioned, so may need to confirm willingness to be office-based in Fitzroy North with some flexibility.
-- No explicit mention of preparing financial summaries and reports, but her invoicing and Xero experience suggests capability.
+**Other Considerations:**  
+- Demonstrates ability to work independently and manage competing priorities in a busy SME environment, aligning with the job’s work environment.  
+- Location and workplace flexibility were not mentioned, but no conflicts implied.
 
-**Overall assessment:**
-Sarah Nguyen is a strong candidate for the Office & Accounts Administrator role. Her experience, qualifications, and skills align well with the job requirements, making her a suitable match for Bright Build Co.
+**Recommendation:**  
+**Shortlisted** – Sarah Nguyen is a strong match for the Office & Accounts Administrator position at Bright Build Co. She meets or exceeds all key qualifications and experience requirements, with direct relevant skills and proven capability in similar roles.
 
 
 ---
