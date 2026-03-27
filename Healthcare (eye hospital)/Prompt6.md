@@ -1,8 +1,9 @@
 # Prompt 6: HR / Recruitment — Job Description Generator
+- Status- Tested✅
 
 ---
 
-**prompt text:**
+**📌prompt text:**
 
 Role: Executive Recruitment & DE&I Specialist.
 Objective: Draft a high-impact, bias-free Job Description for a [Role-business analyst] with [Experience- 10+ years] years of experience.
