@@ -23,17 +23,17 @@ Each prompt entry follows the same structure:
 
 ## 📂 Folder Structure
 
- prompt-library-AI-in-business-
+''' prompt-library/
 
 ├── README.md                        ← You are here (library index)
 
 ├── 01-onboarding/
 │   ├── README.md                    ← Section overview
-│   ├── Prompt1.md
-│   ├── Prompt2.md
-│   └── Prompr3.md
+│   ├── P01-welcome-email.md
+│   ├── P02-induction-schedule.md
+│   └── P03-role-briefing.md
 │
-
+'''
 
 ---
 
