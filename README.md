@@ -23,36 +23,18 @@ Each prompt entry follows the same structure:
 
 ## 📂 Folder Structure
 
-# Prompt Library Index
-
-Welcome to the internal prompt repository. Use the structure below to navigate our standardized AI workflows.
-
-prompt-library/
-│
-├── README.md                        ← You are here (library index)
-│
-├── 01-onboarding/                   ← New hire & induction prompts
-│   ├── README.md
-│   ├── P01-welcome-email.md
-│   ├── P02-induction-schedule.md
-│   └── P03-role-briefing.md
-│
-├── 02-operations/                   ← Daily workflow & reporting
-│   ├── README.md
-│   ├── P04-incident-report.md
-│   └── P05-shift-handover.md
-│
-├── 03-customer-service/             ← External communication
-│   ├── README.md
-│   ├── P06-complaint-triage.md
-│   ├── P07-response-draft.md
-│   └── P08-escalation-summary.md
-│
-└── 04-your-prompts/                 ← Custom/Personal playground
-    ├── README.md
-    ├── P09-[your-prompt].md
-    └── P10-[your-prompt].md
-
+# Healthcare
+- prompt 1
+- prompt 2
+- prompt 3
+- prompt 4
+- prompt 5
+- prompt 6
+- prompt 7
+- prompt 8
+- prompt 9
+- prompt 10
+  
 ---
 
 ## 📊 Library Summary Table
