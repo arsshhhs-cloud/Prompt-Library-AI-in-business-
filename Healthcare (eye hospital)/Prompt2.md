@@ -35,7 +35,7 @@ Automated patient re-engagement and appointment booking campaigns via the hospit
 Problem Being Solved: lapsed patients represents huge revenue and health gap. Manually identifying and outreaching each patient is a time taking task.
 
 **Problem Being Solved:**  
-Very High. Once integrated with CRM data triggers (e.g. "no appointment in 3 months"), this sequence can run fully automatically with minimal human intervention beyond initial setup and compliance review.
+lapsed patients represents huge revenue and health gap. Manually identifying and outreaching each patient is a time taking task.
 
 **Automation Potential:**  
 Very High. Once integrated with CRM data triggers (e.g. "no appointment in 3 months"), this sequence can run fully automatically with minimal human intervention beyond initial setup and compliance review.
