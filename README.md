@@ -23,11 +23,16 @@ Each prompt entry follows the same structure:
 
 ## 📂 Folder Structure
 
- heatlhcare 
- |
- |
-  --prompt1
-  --prompt2
+ prompt-library-AI-in-business-
+│
+├── README.md                        ← You are here (library index)
+│
+├── Healthcare/
+│   ├── README.md                    ← Section overview
+│   ├── Prompt1.md
+│   ├── Prompt2.md
+│   └── Prompt3.md
+│
 
 
 
