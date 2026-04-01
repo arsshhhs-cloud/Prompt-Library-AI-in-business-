@@ -23,6 +23,10 @@ Each prompt entry follows the same structure:
 
 ## 📂 Folder Structure
 
+ heatlhcare 
+  ---prompt1
+  ---prompt2
+
 
 
 ---
