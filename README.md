@@ -27,7 +27,6 @@ Each prompt entry follows the same structure:
 
 Welcome to the internal prompt repository. Use the structure below to navigate our standardized AI workflows.
 
-```text
 prompt-library/
 │
 ├── README.md                        ← You are here (library index)
